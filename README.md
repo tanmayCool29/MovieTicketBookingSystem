@@ -13,4 +13,4 @@ The objectives of this project are as follows:
 - To ensure the system is scalable, reliable, and secure.
 - To handle a large number of users simultaneously.
           
-![Uploading Screenshot 2024-02-27 at 11.23.32 AM.png…]()
+
